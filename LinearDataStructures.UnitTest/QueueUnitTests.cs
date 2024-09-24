@@ -11,7 +11,7 @@ namespace LinearDataStructures.UnitTest
 
         private static IQueue<T> CreateQueue<T>()
         {
-            return new MockQueue<T>();
+            return DataStructuresFactory.CreateQueue<T>();
         }
 
         [TestInitialize]

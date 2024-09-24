@@ -8,7 +8,7 @@
         }
         public static IQueue<T> CreateQueue<T>()
         {
-            throw new NotImplementedException();
+            return new Queue<T>();
         }
         public static IUniversalQueue<T> CreateUniversalQueue<T>()
         {
