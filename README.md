@@ -72,6 +72,6 @@ Wiederholen sie diese Vorgangsweise für alle anderen Schnittstellen.
 
 ## Definitionen 
 
-Wichtige Begriffe aus dieser Aufgabenstellung finden sie hier: ![Definitionen](definitions.md)
+Wichtige Begriffe aus dieser Aufgabenstellung finden sie hier: [Definitionen](definitions.md)
 
-<center><strong>Viel Spaß mit der Aufgabe!</strong></center>
+**Viel Spaß mit der Aufgabe!**
